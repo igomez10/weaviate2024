@@ -1,0 +1,226 @@
+[
+    {
+        "sender": "You",
+        "message": "Hey! What’s up? 😊"
+    },
+    {
+        "sender": "Michael",
+        "message": "Hey! Not much, just chilling. You?"
+    },
+    {
+        "sender": "You",
+        "message": "Same here! Just finished watching a movie."
+    },
+    {
+        "sender": "Michael",
+        "message": "Oh, which one?"
+    },
+    {
+        "sender": "You",
+        "message": "Inception! Finally got around to it. 😅"
+    },
+    {
+        "sender": "Michael",
+        "message": "Niceee, how’d you like it?"
+    },
+    {
+        "sender": "You",
+        "message": "Mind-blowing, honestly. Might need to watch it again though."
+    },
+    {
+        "sender": "Michael",
+        "message": "Hahaha, yeah, it’s one of those movies that gets better each time."
+    },
+    {
+        "sender": "You",
+        "message": "So true. What’re you up to?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Just reading a bit. Trying to finish this book I’ve had for ages."
+    },
+    {
+        "sender": "You",
+        "message": "Which book?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Atomic Habits! Ever heard of it?"
+    },
+    {
+        "sender": "You",
+        "message": "Yeah! I’ve been meaning to read that too. Any good?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Yeah, it’s actually super helpful. Lots of good advice."
+    },
+    {
+        "sender": "You",
+        "message": "Nice, maybe I’ll borrow it from you when you’re done 😆"
+    },
+    {
+        "sender": "Michael",
+        "message": "Sure thing! 📚"
+    },
+    {
+        "sender": "You",
+        "message": "Btw, are you free this weekend?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Yeah, what’s up?"
+    },
+    {
+        "sender": "You",
+        "message": "Thinking of having a small get-together. You down?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Absolutely! Who else is coming?"
+    },
+    {
+        "sender": "You",
+        "message": "Just a few people. Maria, Alex, maybe Sarah if she’s free."
+    },
+    {
+        "sender": "Michael",
+        "message": "Sounds perfect! Let me know what I can bring."
+    },
+    {
+        "sender": "You",
+        "message": "Just bring yourself, we’ll have everything covered."
+    },
+    {
+        "sender": "Michael",
+        "message": "Alright, sounds good 😊"
+    },
+    {
+        "sender": "You",
+        "message": "Great! I’ll send you the details later."
+    },
+    {
+        "sender": "Michael",
+        "message": "Thanks! Looking forward to it."
+    },
+    {
+        "sender": "You",
+        "message": "Me too! 🎉"
+    },
+    {
+        "sender": "Michael",
+        "message": "Btw, did you see the latest episode of The Mandalorian?"
+    },
+    {
+        "sender": "You",
+        "message": "No, not yet! Don’t spoil it! 😆"
+    },
+    {
+        "sender": "Michael",
+        "message": "Haha, okay, no spoilers. But you HAVE to watch it soon."
+    },
+    {
+        "sender": "You",
+        "message": "I will, promise!"
+    },
+    {
+        "sender": "Michael",
+        "message": "Have you seen any other new shows recently?"
+    },
+    {
+        "sender": "You",
+        "message": "Not really. I’ve been pretty busy with work."
+    },
+    {
+        "sender": "Michael",
+        "message": "Oh yeah, how’s that going?"
+    },
+    {
+        "sender": "You",
+        "message": "Pretty good, actually! Busy but in a good way."
+    },
+    {
+        "sender": "Michael",
+        "message": "That’s awesome! Anything exciting happening?"
+    },
+    {
+        "sender": "You",
+        "message": "We’re working on a big project launch, so a bit stressful, but exciting!"
+    },
+    {
+        "sender": "Michael",
+        "message": "That sounds intense. Good luck with it!"
+    },
+    {
+        "sender": "You",
+        "message": "Thanks! 😊 I’ll need it."
+    },
+    {
+        "sender": "Michael",
+        "message": "Anytime! Let me know if you need a coffee break or something 😆"
+    },
+    {
+        "sender": "You",
+        "message": "Hahaha, will do. Speaking of coffee, did you try that new place downtown?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Yes! It’s so good. Their lattes are amazing."
+    },
+    {
+        "sender": "You",
+        "message": "Ahh, I have to go soon. Maybe we can go together?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Sounds like a plan!"
+    },
+    {
+        "sender": "You",
+        "message": "Yay! Maybe sometime next week?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Sure, just let me know when you’re free."
+    },
+    {
+        "sender": "You",
+        "message": "Will do! 😊"
+    },
+    {
+        "sender": "Michael",
+        "message": "Alrighty. I’m gonna head to bed now. Talk tomorrow?"
+    },
+    {
+        "sender": "You",
+        "message": "Yup, sleep well!"
+    },
+    {
+        "sender": "Michael",
+        "message": "You too! Night!"
+    },
+    {
+        "sender": "You",
+        "message": "Morning! 🌞"
+    },
+    {
+        "sender": "Michael",
+        "message": "Good morning! How’s it going?"
+    },
+    {
+        "sender": "You",
+        "message": "Good, just about to start work. You?"
+    },
+    {
+        "sender": "Michael",
+        "message": "Same here. Got a few meetings lined up."
+    },
+    {
+        "sender": "You",
+        "message": "Ah, hope they go well!"
+    },
+    {
+        "sender": "Michael",
+        "message": "Thanks! 😄"
+    }
+]

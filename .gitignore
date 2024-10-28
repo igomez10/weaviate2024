@@ -1,0 +1,4 @@
+.env
+chathistory.csv
+cleaned_chat*
+chathistory.txt
